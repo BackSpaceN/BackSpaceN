@@ -1,0 +1,3 @@
+- 👋 Opa, eu sou o Gab
+- 👀 Estou interessado em aprender novas coisas
+- 🌱 Estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
